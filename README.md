@@ -1,14 +1,15 @@
-<h1 align="center">Software Engineering Team Generator Using Node.js</h1>
+<h1 align="center">Team Generator Using Node.js</h1>
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/merikettapearl212/team_Generator?style=for-the-badge" />
-    <a href="https://github.com/merikettapearl212">
-        <img alt="Github: merikettapearl" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/github/repo-size/merikettapearl212/team_Generator?color=brightgreen&style=for-the-badge" />
+    <a href="https://www.linkedin.com/in/meagan-james-502b78191/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   <img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-inquirer-red?style=for-the-badge&logo=inquirer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-json-orange?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/-screencastify-coral?style=for-the-badge&logo=screencasify&logoColor=white" />
 </p>
 
