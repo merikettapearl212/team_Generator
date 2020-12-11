@@ -48,10 +48,8 @@ Below shows the functionality of the application:
 
 ## Questions
 :mailbox: Contact me with any questions:
- [email](mailto:merikettapearl212@gmail.com)
+ [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />](mailto:merikettapearl212@gmail.com)
 
-### Powered by :coffee: 
-and
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> 
+### Powered by :coffee: and <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
 </br>
 Thanks for stopping by! :vulcan_salute:</br>
