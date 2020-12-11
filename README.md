@@ -25,7 +25,6 @@ Below shows the functionality of the application:
 
 ## Table of Contents
 - [Description](#description)
-- [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -46,14 +45,13 @@ Below shows the functionality of the application:
 
 ## Contributing
 [Meagan James](https://github.com/merikettapearl212)
-## Questions
-Contact me with any questions:
-:mailbox: 
-<a href=(merikettapearl212@gmail.com)>
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
 
-### Powered by 
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> and :coffee: 
+## Questions
+:mailbox: Contact me with any questions:
+ [email](mailto:merikettapearl212@gmail.com)
+
+### Powered by :coffee: 
+and
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> 
 </br>
 Thanks for stopping by! :vulcan_salute:</br>
