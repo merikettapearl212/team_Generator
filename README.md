@@ -53,6 +53,6 @@ Below shows the functionality of the application:
  </br>
  
 
-### Powered by :coffee: and <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
+#### Powered by :coffee: and <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
 
 Thanks for stopping by! :vulcan_salute:
