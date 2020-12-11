@@ -1,1 +1,1 @@
-<h1 align="center">Team Profile Generator Using Node.js</h1>
+<h1 align="center">Software Engineering Team Generator Using Node.js</h1>
