@@ -18,7 +18,9 @@
 </p>
 
 ## Description
-Below shows the functionality of the application:
+A Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. A software engineering team generator command line application. This application prompts the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns.
+
+:movie_camera: Below shows the functionality of the application:
 
 ## Table of Contents
 - [Description](#description)
@@ -31,15 +33,23 @@ Below shows the functionality of the application:
 - [Questions](#questions)
 
 ## Installation
+:gear:
 `npm init`
-  
 `npm install inquirer`
 
 ## Usage
+:computer:
 
 ## Testing
+:test_tube:
 
 ## Contributing
-
+[Meagan James](https://github.com/merikettapearl212)
 ## Questions
+Contact me with any questions:
+:mailbox: [email](merikettapearl212@gmail.com) 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+### Powered by 
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> and :coffee:
+Thanks for stopping by! :vulcan_salute:
