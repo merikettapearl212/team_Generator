@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/merikettapearl212/team_Generator" />
     <a href="https://github.com/merikettapearl212">
-        <img alt="Github: merikettapearl" src="https://img.shields.io/github/follow/merikettapearl212.svg?style=social" target="_blank" />
+        <img alt="Github: merikettapearl" src="https://img.shields.io/github/followers/merikettapearl212?label=follow&logoColor=grey&style=social" target="_blank" />
     </a>
 </p>
 
