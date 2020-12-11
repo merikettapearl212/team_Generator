@@ -48,8 +48,9 @@ Below shows the functionality of the application:
 
 ## Questions
 :mailbox: Contact me with any questions:
- [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:merikettapearl212@gmail.com)
+ [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]<br>(mailto:merikettapearl212@gmail.com)
  </br>
+<br>
 
 ### Powered by :coffee: and <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
 
