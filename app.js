@@ -114,7 +114,7 @@ function askUserforInternInfo() {
             name: "name",
         }, {
             type:"input",
-            message: "What is the intern's ID?",
+            message: "What is the intern's id?",
             name: "id",
         }, {
             type:"input",
