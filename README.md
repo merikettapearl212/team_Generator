@@ -20,8 +20,14 @@
 ## Description
 A Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. A software engineering team generator command line application. This application prompts the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns.
 
-Below shows the functionality of the application:
-:movie_camera:
+#### Below shows the functionality of the application with a gif :movie_camera:
+![Team Profile Generator](src/Team-generator.gif)
+
+link to full length video: 
+[here](https://drive.google.com/file/d/1t5Gk7TCJTEsEzmFpjUe3DMeopmjUpfIr/view)
+
+#### Screenshot of example:
+![team-generator]<img src="src/team-generator.png" width="200" height="200">
 
 ## Table of Contents
 - [Description](#description)
@@ -36,12 +42,15 @@ Below shows the functionality of the application:
 
 `npm init`
 `npm install inquirer`
+`npm i jest`
 
 ## Usage :computer:
-
+Run `node app.js` and answer questions for output page
 
 ## Testing :test_tube:
 
+Testing for all four classes
+[jest](https://jestjs.io/)
 
 ## Contributing
 [Meagan James](https://github.com/merikettapearl212)

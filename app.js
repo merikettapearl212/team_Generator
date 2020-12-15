@@ -57,12 +57,12 @@ function askUserforEmployeeType() {
                 "I have no one else I would like to add"
             ]
           },
-    ]).then((newEmployeetype) => {
+    ]).then((newEmployeeType) => {
 
-        if (newEmployeetype.newEmployee === "Engineer") {
+        if (newEmployeeType.newEmployee === "Engineer") {
             askUserForEngineerInfo();
 
-        } else if (newEmployeetype.newEmployee === "Intern") {
+        } else if (newEmployeeType.newEmployee === "Intern") {
             askUserforInternInfo();
 
         } else {
