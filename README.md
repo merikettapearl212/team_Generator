@@ -27,7 +27,7 @@ link to full length video:
 [here](https://drive.google.com/file/d/1t5Gk7TCJTEsEzmFpjUe3DMeopmjUpfIr/view)
 
 #### Screenshot of example:
-<img src="src/team-generator.png" width="200" height="400">
+<img src="src/team-generator.png" width="400" height="200">
 
 ## Table of Contents
 - [Description](#description)
