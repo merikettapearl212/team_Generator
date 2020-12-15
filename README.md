@@ -49,7 +49,7 @@ Run `node app.js` and answer questions for output page
 
 ## Testing :test_tube:
 
-Testing for all four classes
+Testing for all four classes with 
 [jest](https://jestjs.io/)
 
 ## Contributing
